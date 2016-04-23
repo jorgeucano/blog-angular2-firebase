@@ -30,16 +30,16 @@ class HelloWord{
 				day: "12/12/2012"
 			},
 			{
-				url : "/url1",
-				title: "hola soy un title 1",
-				preview: "Hola soy una preview",
+				url : "/url2",
+				title: "hola soy un title 2",
+				preview: "Hola soy una preview 2",
 				by: "@jorgeucano",
 				day: "12/12/2012"
 			},
 			{
-				url : "/url1",
-				title: "hola soy un title 1",
-				preview: "Hola soy una preview",
+				url : "/url3",
+				title: "hola soy un title 3",
+				preview: "Hola soy una preview 3",
 				by: "@jorgeucano",
 				day: "12/12/2012"
 			}
